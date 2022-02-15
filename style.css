@@ -1,0 +1,43 @@
+* {
+    background-color:black;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Aldrich', sans-serif;
+}
+
+#logo {
+    color:green;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 85px;
+    font-weight: bold;
+}
+
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    margin-right: 45px;
+}
+
+nav ul li a {
+    color: green;
+    font-size: 17px;
+}
+
+nav:hover {
+    color: white;
+  }
+
+  
