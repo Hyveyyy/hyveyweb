@@ -70,7 +70,7 @@ footer ul li a {
 }
 
 footer ul li a img {
-    margin: -80px;
+    margin: -75px;
     height: 15%;
     width: 12%; 
 }
@@ -79,14 +79,14 @@ footer ul li a img {
     color:white;
     text-align: center;
     margin-top: 10%;
-    margin-right: 40%;
+    margin-right: 34.4rem;
 }
 
 #name-home {
     color:white;
     text-align: center;
     margin-top: 1%;
-    margin-right: 45%;  
+    margin-right: 40rem;  
     font-size: 40px;
     color: #fff;
     text-align: center;
@@ -106,8 +106,32 @@ footer ul li a img {
     color: white;
     text-align: center;
     margin-top: 1%;
-    margin-right: 26%
+    margin-right: 19rem;
+
 }
 
-  
+#desc-home-2 {
+    color: white;
+    text-align: center;
+    margin-top: 1%;
+    margin-right: 36.9rem; 
+}
 
+#circle {
+    background: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: -13%;
+    margin-left: 75%;
+}
+
+#avatar {
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+    padding: 5px;
+    margin-top: 3%;
+    margin-left: 5px;
+    text-align: center;
+  }
